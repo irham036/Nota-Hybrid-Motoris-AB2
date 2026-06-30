@@ -1,0 +1,21 @@
+{
+  "collections": {
+    "historyRecords": {
+      "schema": {
+        "id": "string",
+        "date": "string",
+        "rawDate": "string",
+        "salesName": "string",
+        "tokoName": "string",
+        "items": "array",
+        "createdAt": "timestamp"
+      }
+    },
+    "settings": {
+      "schema": {
+        "salesPeople": "array",
+        "products": "array"
+      }
+    }
+  }
+}

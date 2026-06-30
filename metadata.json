@@ -1,0 +1,6 @@
+{
+  "name": "POS Kasir & Rekap Penjualan TK PPJ",
+  "description": "Aplikasi POS kasir pintar dengan rekap penjualan dinamis, rincian retur, ekspor gambar nota thermal berkualitas tinggi, dan format pesan WhatsApp ringkas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,30 @@
+import { Product } from "./types";
+
+export const MASTER_PRODUCTS: Product[] = [
+  { name: "B. POP", price: 14500, conv: 4, unitBsr: "Q", unitSdg: "Rcg" },
+  { name: "BLASTER", price: 5500, conv: 24, unitBsr: "Q", unitSdg: "Zak" },
+  { name: "BLASTOZ", price: 20000, conv: 6, unitBsr: "Q", unitSdg: "Box" },
+  { name: "BROCIS", price: 16000, conv: 4, unitBsr: "Q", unitSdg: "Rcg" },
+  { name: "CB", price: 9667, conv: 6, unitBsr: "Q", unitSdg: "Box" },
+  { name: "EMOJI", price: 17500, conv: 6, unitBsr: "Q", unitSdg: "Box" },
+  { name: "FB", price: 10000, conv: 6, unitBsr: "Q", unitSdg: "Box" },
+  { name: "FRUZ GUMY", price: 9750, conv: 12, unitBsr: "Q", unitSdg: "Box" },
+  { name: "FRUZZ ZAK", price: 5500, conv: 24, unitBsr: "Q", unitSdg: "Zak" },
+  { name: "FUGU", price: 8000, conv: 10, unitBsr: "Q", unitSdg: "Rcg" },
+  { name: "FULLO", price: 9700, conv: 6, unitBsr: "Q", unitSdg: "Box" },
+  { name: "JUNIOR", price: 7500, conv: 12, unitBsr: "Q", unitSdg: "Pcs" },
+  { name: "MINTZ", price: 5500, conv: 24, unitBsr: "Q", unitSdg: "Zak" },
+  { name: "OOPS STAR", price: 8000, conv: 10, unitBsr: "Q", unitSdg: "Rcg" },
+  { name: "OOPS Casava", price: 14700, conv: 6, unitBsr: "Q", unitSdg: "Rcg" },
+  { name: "POP TPL", price: 12000, conv: 8, unitBsr: "Q", unitSdg: "Tpl" },
+  { name: "ROLL", price: 16000, conv: 4, unitBsr: "Q", unitSdg: "Rcg" },
+  { name: "ROPPANG", price: 1550, conv: 60, unitBsr: "Q", unitSdg: "Pcs" },
+  { name: "SGF", price: 32000, conv: 6, unitBsr: "Q", unitSdg: "Box" },
+  { name: "STRONG", price: 9700, conv: 72, unitBsr: "Q", unitSdg: "Pcs" },
+  { name: "VERTIKAL", price: 8000, conv: 12, unitBsr: "Q", unitSdg: "Ban" },
+  { name: "WAFFLE", price: 19500, conv: 6, unitBsr: "Q", unitSdg: "Box" },
+  { name: "WAHH", price: 19500, conv: 6, unitBsr: "Q", unitSdg: "Box" },
+  { name: "WFT 500", price: 8000, conv: 12, unitBsr: "Q", unitSdg: "Box" },
+  { name: "WFT 2RB", price: 16000, conv: 6, unitBsr: "Q", unitSdg: "Ban" },
+  { name: "WFT 5RB", price: 4500, conv: 24, unitBsr: "Q", unitSdg: "Pcs" }
+];
